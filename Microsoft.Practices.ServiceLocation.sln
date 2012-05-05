@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.ServiceLocation", "Microsoft.Practices.ServiceLocation\Microsoft.Practices.ServiceLocation.csproj", "{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.ServiceLocation.WP71", "Microsoft.Practices.ServiceLocation\Microsoft.Practices.ServiceLocation.WP71.csproj", "{857AC063-7CE2-422B-8C70-090C36BCA4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF6D6B2-1EC9-4A1B-83BB-48F772E948CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857AC063-7CE2-422B-8C70-090C36BCA4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857AC063-7CE2-422B-8C70-090C36BCA4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857AC063-7CE2-422B-8C70-090C36BCA4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857AC063-7CE2-422B-8C70-090C36BCA4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
