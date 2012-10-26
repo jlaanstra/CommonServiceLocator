@@ -1,4 +1,4 @@
 CommonServiceLocator
 ====================
 
-CommonServiceLocator port for Windows Phone
+CommonServiceLocator portable library.
