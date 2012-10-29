@@ -6,5 +6,7 @@ obj
 TestResults
 *.nuspec
 *.suo
+*.nupkg
+*.user
 .nuget/nuget.txt
-*nupkg
+
